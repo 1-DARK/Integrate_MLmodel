@@ -1,0 +1,5 @@
+This is a test file for uploading to the sentiment analysis application.
+
+I am testing the file upload functionality to see if it works properly.
+
+This should be analyzed as positive sentiment.
